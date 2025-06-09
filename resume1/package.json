@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Personal resume website",
+  "scripts": {
+    "dev": "python3 -m http.server 8889",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": ["resume", "portfolio"],
+  "author": "Jason",
+  "license": "MIT"
+}
